@@ -16,6 +16,10 @@ ListView 主要用在获取某个 model 列表中
 
 复写 get_context_data 方法来为上下文对象添加额外的变量以便在模板中访问
 
+drf https://www.cnblogs.com/wupeiqi/articles/7805382.html
+
+django https://www.cnblogs.com/liuqingzheng/p/9506212.html
+
 
 
 
